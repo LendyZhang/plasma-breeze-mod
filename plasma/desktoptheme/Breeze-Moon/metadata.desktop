@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Breeze Moon
+Name[zh_CN]=月色微风
+Comment=Breeze Moon by Lendy Zhang
+Comment[zh_CN]=月色微风，由 Lendy Zhang 创作
+
+X-KDE-PluginInfo-Author=Lendy Zhang
+X-KDE-PluginInfo-Email=LendyZhang@gmail.com
+X-KDE-PluginInfo-Name=breeze-moon
+X-KDE-PluginInfo-Version=5.68.0
+X-KDE-PluginInfo-Website=https://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=1.5
+intensity=0.5
+saturation=1.7
